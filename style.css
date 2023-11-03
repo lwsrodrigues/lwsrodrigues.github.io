@@ -1,0 +1,99 @@
+body{
+    background-color:#192533;
+}
+
+.header{
+    padding:10px;
+    color: #519efc;
+}
+
+.links{
+    display: inline;
+    margin-left: 600px;
+}
+.links a{
+    margin-left: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color:  black;
+}
+.links a:hover{
+    color: #519efc;
+    border-top: 2px solid #519efc;
+    border-bottom: 2px solid #519efc;
+}
+.link-a-1{
+    background-color: #519efc;
+    border: #0b4996;
+}
+.link-a-2{
+    background-color: #519efc;
+    border: #0b4996;
+
+
+}
+
+.span-1 , .span-2 {
+
+    font-weight: bold;
+    font-size: x-large;
+
+}
+.span-1 {
+    color: #0b4996;
+    
+    
+
+}
+.span-2{
+    color: #e605d3;
+}
+
+.texto h1{
+    color:#3be1ed
+
+}
+.secao-1{
+    width: 500px;
+    color: #fff;
+    margin-left: 30px;
+    margin-top: 60px;
+    font-family: arial black;
+}
+.secao-2{
+    
+    width: 500px;
+    margin-top: 50px;
+}
+.secao-3{
+
+    color: #fff;
+    text-align: justify;
+    margin-left: 15px;
+
+}
+.img{
+    width: 300px;
+    margin: 0 auto;
+    height: 300px;
+}
+.img img{
+    width: 120%;
+    border-radius: 400px;
+    position: relative;
+    animation: flutuar 2s ease-in-out infinite alternate;
+    
+}
+
+.developer{
+    color:#3be1ed
+}
+
+@keyframes flutuar{
+    0%{
+        top: 0;
+    }
+    100%{
+        top:30px;
+    }
+}
