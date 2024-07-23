@@ -1,0 +1,1 @@
+Bem-vindo ao meu portfólio em desenvolvimento! Sou Lucas Rodrigues, um desenvolvedor web dedicado. Este site está em construção, mas já inclui seções como Home, Contato, Projetos, Portfólio, Serviços e Sobre. Fique atento para mais atualizações em breve, onde compartilharei mais sobre meus projetos e serviços.
